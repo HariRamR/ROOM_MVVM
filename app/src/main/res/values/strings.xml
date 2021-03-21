@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ROOM_MVVM</string>
+    <string name="search_here">Search Here</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="add">Add</string>
+</resources>
